@@ -54,3 +54,8 @@ The goal of this project is to promote responsible AI development by helping dev
 - Machine learning based risk detection
 - AI governance dashboard
 - Regulatory compliance integration
+
+## Demo Video
+
+Watch the project demo here:
+https://drive.google.com/file/d/1oMpr7OZ8SP7zmp8iabd9J0NrQEeLhbA-/view?usp=drivesdk
